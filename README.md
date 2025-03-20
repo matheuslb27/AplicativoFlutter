@@ -1,4 +1,4 @@
-# Aplica-o-Flutter
+# AppContador
 
 📊 Contador de Pessoas
 Este é um aplicativo simples desenvolvido em Flutter que permite contar a quantidade de pessoas presentes em um local. O aplicativo também exibe um alerta caso a lotação máxima seja excedida e permite alterar a cor de fundo da tela de forma aleatória.
